@@ -1,0 +1,2 @@
+This is how to use git.
+wow so much fun
